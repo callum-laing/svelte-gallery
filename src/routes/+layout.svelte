@@ -1,5 +1,5 @@
 <script>
-	import '../lib/styles/global.css';
+	import '../lib/styles/global.scss';
 </script>
 
 <nav>
@@ -10,7 +10,7 @@
 
 <slot />
 
-<style>
+<style lang="scss">
 	nav {
 		display: flex;
 		align-content: space-around;
