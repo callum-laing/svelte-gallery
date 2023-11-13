@@ -22,11 +22,6 @@
 </div>
 
 <style>
-	h1 {
-		text-align: center;
-		border-bottom: 2px solid black;
-		padding-bottom: 20px;
-	}
 	.img-grid {
 		display: grid;
 		grid-template-columns: repeat(3, 1fr);

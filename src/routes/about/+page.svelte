@@ -6,9 +6,6 @@
 </div>
 
 <style>
-	h1 {
-		text-align: center;
-	}
 	.about-grid {
 		display: grid;
 		grid-template-columns: 1fr 1fr;
